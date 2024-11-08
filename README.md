@@ -1,15 +1,11 @@
-<div>
-<p align="center">
+<div align="center">
   <a href="https://github.com/alenjojo?tab=followers">
     <img src="https://img.shields.io/github/followers/LLIaMMaH?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-</p>
 </div>
 
-<div>
-<p align="center">
-<hr />  
-</p>
+<div align="center">
+  <hr />  
 </div>
 
 <div>
@@ -18,10 +14,8 @@
 </p>
 </div>
 
-<div>
-<p align="center">
-<hr />  
-</p>
+<div align="center">
+  <hr />  
 </div>
 
 <div>
@@ -30,8 +24,6 @@
 </p>
 </div>
 
-<div>
-<p align="center">
-<hr />  
-</p>
+<div align="center">
+  <hr />  
 </div>
