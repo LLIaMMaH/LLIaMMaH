@@ -20,5 +20,8 @@
 
 ---
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LLIaMMaH)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=LLIaMMaH&theme=darkhub" alt="LLIaMMaH trophy" />
+  </a>
+</div>
