@@ -9,9 +9,10 @@
 
 
 <div align="center">
-  <img align="left" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LLIaMMaH&show_icons=true&theme=radical&hide=stars&line_height=45" />
-</div>
-
-<div align="center">
-  <img align="right" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLIaMMaH&count_private=true&line_height=52" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LLIaMMaH" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LLIaMMaH&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
