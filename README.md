@@ -4,9 +4,7 @@
   </a>
 </div>
 
-<div align="center">
-  <hr />  
-</div>
+---
 
 <div>
 <p align="center">
@@ -14,16 +12,10 @@
 </p>
 </div>
 
-<div align="center">
-  <hr />  
-</div>
+---
 
 <div>
 <p align="center">
 <img align="right" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLIaMMaH&count_private=true&line_height=52" />
 </p>
-</div>
-
-<div align="center">
-  <hr />  
 </div>
