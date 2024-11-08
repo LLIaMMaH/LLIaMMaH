@@ -8,8 +8,12 @@
 <br>
 <p align="center">
 <img align="left" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LLIaMMaH&show_icons=true&theme=radical&hide=stars&line_height=45" />
-
- <img align="right" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLIaMMaH&count_private=true&line_height=52" />
+</p>
+<br>
+<hr>
+<br>
+<p align="center">
+<img align="right" alt="LLIaMMaH GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLIaMMaH&count_private=true&line_height=52" />
 </p>
 <br>
 <hr>
